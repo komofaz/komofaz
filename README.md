@@ -1,5 +1,9 @@
 ## Magdiel
 
+- Cursando Bacharel em Sistemas de Informação - Anhembi Morumbi - Previsão Término 06/2022 </br>
+- Cursando Full Stack Web - SENAI - Previsão Término 06/2022
+</br>
+
 <div align="center">
   <a href="https://github.com/komofaz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=komofaz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -21,8 +25,6 @@
   <a href="https://www.linkedin.com/in/magdielcarmo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-</br>
-- Cursando Bacharel em Sistemas de Informação - Anhembi Morumbi - Previsão Término 06/2022 </br>
-- Cursando Full stack Web - SENAI - Previsão Término 06/2022
+
 
 
