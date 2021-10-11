@@ -1,4 +1,5 @@
-## Magdiel
+## Magdiel <div align="right"><a href="https://www.linkedin.com/in/magdielcarmo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div></div> 
+
 
 - Cursando Bacharel em Sistemas de Informação - Anhembi Morumbi - Previsão Término 06/2022 </br>
 - Cursando Full Stack Web - SENAI - Previsão Término 06/2022
@@ -21,9 +22,7 @@
   <img align="center" alt="komofaz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
 </div>
  
-<div> 
-  <a href="https://www.linkedin.com/in/magdielcarmo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+
 
 
 
