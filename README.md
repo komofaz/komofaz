@@ -1,4 +1,4 @@
-## Olá! eu sou o Magdiel, Futuro Desenvolvedor Python!
+## Magdiel
 
 <div align="center">
   <a href="https://github.com/komofaz">
@@ -20,3 +20,9 @@
 <div> 
   <a href="https://www.linkedin.com/in/magdielcarmo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+
+</br>
+- Cursando Bacharel em Sistemas de Informação - Anhembi Morumbi - Previsão Término 06/2022 </br>
+- Cursando Full stack Web - SENAI - Previsão Término 06/2022
+
+
