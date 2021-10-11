@@ -1,4 +1,4 @@
-## Olá eu sou o Magdiel, Futuro Desenvolvedor Python!
+## Olá! eu sou o Magdiel, Futuro Desenvolvedor Python!
 
 <div align="center">
   <a href="https://github.com/komofaz">
