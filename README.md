@@ -2,7 +2,6 @@
 
 
 - Cursando Bacharelado em Sistemas de Informação - Anhembi Morumbi - Previsão Término 06/2022 </br>
-- Cursando Full Stack Web - SENAI - Previsão Término 06/2022
 </br>
 
 <div align="center">
