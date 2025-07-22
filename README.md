@@ -1,4 +1,4 @@
-## <div align="right"><a href="https://www.linkedin.com/in/magdielcarmo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
+## **`Desenvolvedor Fullstack`** <div align="right"><a href="https://www.linkedin.com/in/magdielcarmo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 
 <div align="center" margin-bottom=30px>
 <img 
@@ -90,8 +90,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 </div>
-
-**`Desenvolvedor Fullstack`**
 
 <div margin-top=30px align="center">
   <a href="https://github.com/komofaz">
