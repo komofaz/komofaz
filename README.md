@@ -91,7 +91,7 @@
 />
 </div>
 
-<br/>
+![Snake animation](https://github.com/komofaz/komofaz/blob/output/github-contribution-grid-snake.svg)
 
 <div margin-top="30px" align="center">
   <a href="https://github.com/komofaz">
