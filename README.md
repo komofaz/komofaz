@@ -1,6 +1,6 @@
 ## <div align="right"><a href="https://www.linkedin.com/in/magdielcarmo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div></div> 
-
-<div align="center">
+    
+<div align="center" margin-bottom=30px>
 <img 
     align="left" 
     alt="HTML"
@@ -91,9 +91,7 @@
 />
 </div>
 
-<div margin-top=30px>
-    **`Desenvolvedor Fullstack`**
-</div>
+**`Desenvolvedor Fullstack`**
 
 <div margin-top=30px align="center">
   <a href="https://github.com/komofaz">
