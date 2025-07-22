@@ -1,6 +1,6 @@
 ## **`Desenvolvedor Fullstack`** <div align="right"><a href="https://www.linkedin.com/in/magdielcarmo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 
-<div align="center" margin-bottom=30px>
+<div align="center" margin-bottom="30px">
 <img 
     align="left" 
     alt="HTML"
@@ -91,7 +91,7 @@
 />
 </div>
 
-<div margin-top=30px align="center">
+<div margin-top="30px" align="center">
   <a href="https://github.com/komofaz">
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=komofaz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komofaz&layout=compact&langs_count=7&theme=midnight-purple"/>
