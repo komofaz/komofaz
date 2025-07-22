@@ -1,7 +1,7 @@
 ## <div align="right"><a href="https://www.linkedin.com/in/magdielcarmo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div></div> 
 
 
-**`Desenvolvedor`**
+**`Desenvolvedor Fullstack`**
 
 </br>
 
@@ -11,6 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komofaz&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
+<div align="center">
 <img 
     align="left" 
     alt="HTML"
@@ -99,6 +100,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+</div>
  
 
 
