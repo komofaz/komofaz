@@ -1,6 +1,6 @@
 ## **`Desenvolvedor Fullstack`** <div align="right"><a href="https://www.linkedin.com/in/magdielcarmo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 
-<div style="width: 100%;">
+<div style="width: 100%;align:center">
 <img 
     align="left" 
     alt="HTML"
