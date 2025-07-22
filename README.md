@@ -1,5 +1,4 @@
 **`Desenvolvedor Fullstack`** 
-##
 <div style="width: 100%;align:center">
 <img 
     align="left" 
@@ -89,9 +88,11 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+<div align="right"><a href="https://www.linkedin.com/in/magdielcarmo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 </div>
 
-## <div align="right"><a href="https://www.linkedin.com/in/magdielcarmo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
+##
 
 <div margin-top="30px" align="center">
   <a href="https://github.com/komofaz">
