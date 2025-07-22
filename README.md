@@ -1,16 +1,5 @@
 ## <div align="right"><a href="https://www.linkedin.com/in/magdielcarmo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div></div> 
 
-
-**`Desenvolvedor Fullstack`**
-
-</br>
-
-<div align="center">
-  <a href="https://github.com/komofaz">
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=komofaz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komofaz&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-
 <div align="center">
 <img 
     align="left" 
@@ -101,7 +90,18 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 </div>
+
+**`Desenvolvedor Fullstack`**
+</br>
+
+<div align="center">
+  <a href="https://github.com/komofaz">
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=komofaz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komofaz&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
  
+
+
 
 
 
